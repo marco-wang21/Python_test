@@ -4,3 +4,7 @@
 **1** crawl data from dongqiudi.com, which is the most active football website in China  
 **2** clean these data, using **jieba** package to do segementation  
 **3** generate word cloud
+
+
+
+### bilibili : crawl comments from bilibili.com &simple text analysis

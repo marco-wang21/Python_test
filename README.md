@@ -9,3 +9,9 @@
 
 ### bilibili : how to crawl comments from bilibili.com &simple text analysis
 ##### an example
+
+
+
+### mda 
+##### what we learn from Management Discussion and Analysis in CSRC annual report?
+Match the closest listed company of 300263.SZ according to MD&A, using **cosine similarity** of the text

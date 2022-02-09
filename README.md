@@ -7,4 +7,5 @@
 
 
 
-### bilibili : crawl comments from bilibili.com &simple text analysis
+### bilibili : how to crawl comments from bilibili.com &simple text analysis
+##### an example
